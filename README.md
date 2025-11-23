@@ -12,8 +12,14 @@ mnistの画像が28 ＊ 28 * 1のテンソル。これを全結合層、畳み�
 ## 結果
 以下の画像は２次元に圧縮した画像の２次元空間での位置を数字の関係性を可視化したものです。</br>
 全結合層のみ</br>
-![Uploading Unknown-5.png…]()　</br>
+<img width="774" height="836" alt="Unknown-5" src="https://github.com/user-attachments/assets/2ff5f69d-38a1-4af3-896b-1964aa560d7e" />
+
+　</br>
 畳み込み層</br>
-![Uploading Unknown-7.png…]() </br>
+<img width="763" height="836" alt="Unknown-7" src="https://github.com/user-attachments/assets/3c917ad0-ed89-422f-a520-4abb30445146" />
+
+ </br>
 ノイズ除去</br>
-![Uploading Unknown-9.png…]()
+
+<img width="774" height="836" alt="Unknown-9" src="https://github.com/user-attachments/assets/b16d5b4a-01dc-4966-b79c-d2f187cb0fc1" />
+
